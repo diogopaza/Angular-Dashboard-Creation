@@ -5,3 +5,4 @@
 
 <h3>CSS importantes!!!</h3>
 <p><strong>display: flex</strong> === colocou lado a lado todas as div dentro da <emph>div pai.</emph></p>
+<p><strong>justify-content: space-between</strong> === muito util para ajustar o layout responsivo, usado principalmente junto com o <emph>display: flex</emph> alinha os itens ao final, de forma justificada, exelente para criar os headers por exemplo.</p>
