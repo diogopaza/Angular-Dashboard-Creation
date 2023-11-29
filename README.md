@@ -7,3 +7,4 @@
 <p><strong>display: flex</strong> === colocou lado a lado todas as div dentro da <emph>div pai.</emph></p>
 <p><strong>justify-content: space-between</strong> === muito util para ajustar o layout responsivo, define horizontalmente no contêiner, usado principalmente junto com o <emph>display: flex</emph> alinha os itens ao final, de forma justificada, exelente para criar o header da pagina por exemplo.</p>
 <p><strong>align-items</strong> === muito util para ajustar o layout responsivo, define verticalmente no contêiner.</p>
+<p><strong>overflow: auto</strong> ===  é usada para especificar o que deve acontecer se o conteúdo de um elemento for maior do que a área designada para exibi-lo. Quando você define overflow: auto; você está instruindo o navegador a adicionar barras de rolagem (horizontal e/ou vertical) automaticamente quando necessário.</p>
