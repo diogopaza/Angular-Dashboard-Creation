@@ -5,7 +5,7 @@
 <p><strong>ng serve --host enderecoIp --port porta</strong> === define a porta e o endereço ip para rodar a aplicacao Angular.</p>
 
 <h3>Comando para inicializar o Angular com opções</h3>
-<p><strong>no arquivo package.json definr em scripts o comando: ng serve --host 0.0.0.0 --port 4200</strong> === desta forma o Angular fica acessível para a placa de rede também e não apenas localhost.</p>
+<p><strong>no arquivo package.json definr em scripts o comando: ng serve --host 0.0.0.0 --port 4200. Para iniciaro projeto executar o comando npm start</strong> === desta forma o Angular fica acessível para a placa de rede também e não apenas localhost.</p>
 
 <h3>CSS importantes!!!</h3>
 <p><strong>display: flex</strong> === colocou lado a lado todas as div dentro da <emph>div pai.</emph></p>
